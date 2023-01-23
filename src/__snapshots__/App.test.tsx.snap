@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given the App component When it is rendered with a path '/*' Then it should show the login page 1`] = `
+<div
+  className="app"
+/>
+`;
